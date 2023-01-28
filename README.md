@@ -1,2 +1,2 @@
-# hw2_Edit_Test_Deploy
-Edit this code to use proper folders, tags, etc.
+# hw3_simple_css
+Starter code for simple css assignment
